@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "cstdlib": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "algorithm": "cpp",
+        "syscall.h": "c",
+        "memory": "cpp",
+        "istream": "cpp",
+        "thread": "cpp",
+        "chrono": "cpp",
+        "typeinfo": "c"
+    }
+}
