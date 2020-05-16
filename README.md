@@ -12,13 +12,10 @@
 
 #### RUN
 
-cd ./nachos-3.4-SDU/code/lab7-8
-
-make clean
-
-make
-
-./nachos
+	cd ./nachos-3.4-SDU/code/lab7-8
+	make clean
+	make
+	./nachos
 
 #### Environment
 
